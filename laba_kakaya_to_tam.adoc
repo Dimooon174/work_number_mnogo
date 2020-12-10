@@ -8,7 +8,6 @@
 
 image::photo/image.png[]
 
-image::photo/file.png[]
 
 Код данной программы делится на три части:
 
