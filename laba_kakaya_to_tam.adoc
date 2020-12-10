@@ -7,7 +7,7 @@
 
 Задание:
 
-image::photo/zadanie.png[]
+image::photo/image.png[]
 
 Код данной программы делится на три части:
 
